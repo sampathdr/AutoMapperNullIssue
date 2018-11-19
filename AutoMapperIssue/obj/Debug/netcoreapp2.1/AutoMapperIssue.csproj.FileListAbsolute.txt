@@ -1,0 +1,12 @@
+C:\Users\S\source\repos\AutoMapperIssue\AutoMapperIssue\bin\Debug\netcoreapp2.1\AutoMapperIssue.deps.json
+C:\Users\S\source\repos\AutoMapperIssue\AutoMapperIssue\bin\Debug\netcoreapp2.1\AutoMapperIssue.runtimeconfig.json
+C:\Users\S\source\repos\AutoMapperIssue\AutoMapperIssue\bin\Debug\netcoreapp2.1\AutoMapperIssue.runtimeconfig.dev.json
+C:\Users\S\source\repos\AutoMapperIssue\AutoMapperIssue\bin\Debug\netcoreapp2.1\AutoMapperIssue.dll
+C:\Users\S\source\repos\AutoMapperIssue\AutoMapperIssue\bin\Debug\netcoreapp2.1\AutoMapperIssue.pdb
+C:\Users\S\source\repos\AutoMapperIssue\AutoMapperIssue\obj\Debug\netcoreapp2.1\AutoMapperIssue.csprojAssemblyReference.cache
+C:\Users\S\source\repos\AutoMapperIssue\AutoMapperIssue\obj\Debug\netcoreapp2.1\AutoMapperIssue.csproj.CoreCompileInputs.cache
+C:\Users\S\source\repos\AutoMapperIssue\AutoMapperIssue\obj\Debug\netcoreapp2.1\AutoMapperIssue.AssemblyInfoInputs.cache
+C:\Users\S\source\repos\AutoMapperIssue\AutoMapperIssue\obj\Debug\netcoreapp2.1\AutoMapperIssue.AssemblyInfo.cs
+C:\Users\S\source\repos\AutoMapperIssue\AutoMapperIssue\obj\Debug\netcoreapp2.1\AutoMapperIssue.dll
+C:\Users\S\source\repos\AutoMapperIssue\AutoMapperIssue\obj\Debug\netcoreapp2.1\AutoMapperIssue.pdb
+C:\Users\S\source\repos\AutoMapperIssue\AutoMapperIssue\bin\Debug\netcoreapp2.1\AutoMapperIssue.dll.config
