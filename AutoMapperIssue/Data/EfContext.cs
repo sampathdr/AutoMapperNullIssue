@@ -1,6 +1,7 @@
 ﻿using AutoMapperIssue.Data.Configurations;
 using AutoMapperIssue.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Diagnostics;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -33,7 +34,7 @@ namespace AutoMapperIssue.Data
       {
         optionsBuilder.UseSqlServer(_connectionString);
       }
-
+      //optionsBuilder.ConfigureWarnings(warnings => warnings.Ignore(CoreEventId.DetachedLazyLoadingWarning));
       base.OnConfiguring(optionsBuilder);
     }
 
@@ -45,6 +46,7 @@ namespace AutoMapperIssue.Data
       modelBuilder.ApplyConfiguration(new LkupNationalityConfiguration(modelBuilder.Entity<LkupNationality>()));
       modelBuilder.ApplyConfiguration(new ListItemConfiguration<LkupRegion>());
       modelBuilder.ApplyConfiguration(new AddressConfiguration());
+      modelBuilder.ApplyConfiguration(new UserConfiguration());
     }
 
     public override int SaveChanges()
